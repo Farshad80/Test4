@@ -1,2 +1,6 @@
 Master
+<<<<<<< HEAD
 Hello from Master
+=======
+New Feature
+>>>>>>> myNewFeature
