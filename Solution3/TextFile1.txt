@@ -4,8 +4,13 @@ Master
 Hello from Master
 =======
 New Feature
+<<<<<<< HEAD
 >>>>>>> myNewFeature
 =======
 New Feature
 NEW FEATURE_2
+>>>>>>> myNewFeature
+=======
+NEW FEATURE_2
+New Feature_3
 >>>>>>> myNewFeature
